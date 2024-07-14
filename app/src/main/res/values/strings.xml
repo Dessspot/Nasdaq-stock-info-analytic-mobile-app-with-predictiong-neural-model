@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tapochka2</string>
+    <string name="obv_value">OBV: %1$s</string>
+    <string name="macd_value">MACD: %1$s</string>
+    <string name="signal_line_value">Signal Line: %1$s</string>
+    <string name="histogram_value">Histogram: %1$s</string>
+    <string name="upper_band_value">Upper Bollinger Band: %1$s</string>
+    <string name="lower_band_value">Lower Bollinger Band: %1$s</string>
+    <string name="market_cap_format">Market Cap: %1$d</string>
+    <string name="volume_average_format">Average Volume: %1$d</string>
+    <string name="trading_volume_analysis_value">Trading Volume Analysis: %1$s</string>
+    <string name="days_to_cover_value">Days to Cover: %1$s</string>
+    <string name="total_value_format">Total Value: %1$.2f</string>
+    <string name="diversification_format">Diversification: %1$s</string>
+    <string name="risk_level_format">Risk Level: %1$s</string>
+    <string name="return_rate_format">Return rate: %.2f%%</string>
+
+    <string name="title_portfolio_analysis">Анализ портфеля</string>
+
+</resources>
